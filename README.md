@@ -1,2 +1,2 @@
 # Python-Capstone-Project
-A repo for my capstone project
+A repo for my first Python Capstone project
